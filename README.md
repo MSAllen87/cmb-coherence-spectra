@@ -24,8 +24,7 @@ This repository contains the Jupyter notebook and extracted Python script used t
 - TT, EE, and TE angular spectra
 - Comparison with Planck data overlays (if included)
 
-## Citation
-
+## Citations
 This code supports the model described in:
 
-> *Reproducing the CMB and Matter Spectra Without Expansion or Inflation: A Classical Redshift from Scalar Coherence*, M. Shinn, 2025 (submitted to PRL)
+> *Reproducing the CMB and Matter Spectra Without Expansion or Inflation: A Classical Redshift from Scalar Coherence*, M. Shinn, 2025 
